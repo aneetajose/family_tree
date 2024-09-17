@@ -11,14 +11,16 @@ export default function AdminLogin() {
           <div className="w-1/2 mx-8">
             <div className="my-5">
               <input
-                className="w-full border-2 border-black bg-transparent rounded-xl p-2"
-                value="Username"
+                className="w-full border-2 border-primary-color text-primary-color placeholder-primary-color bg-transparent rounded-xl p-2"
+                type="text"
+                placeholder="Username"
               />
             </div>
             <div className="my-5">
               <input
-                className="w-full border-2 border-black bg-transparent rounded-xl p-2"
-                value="Password"
+                className="w-full border-2 border-primary-color text-primary-color placeholder-primary-color bg-transparent rounded-xl p-2"
+                type="password"
+                placeholder="Password"
               />
             </div>
           </div>
