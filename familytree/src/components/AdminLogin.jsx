@@ -4,7 +4,7 @@ export default function AdminLogin() {
       <div className="flex w-full h-screen">
         <div className="lg:flex h-full w-1/2 items-center justify-center bg-secondary-color">
           <h1 className="text-2xl text-primary-color font-font-type font-bold">
-            Family tree
+            <img src="src/assests/Illustration.svg"></img>
           </h1>
         </div>
         <div className="w-1/2 h-full flex flex-col items-center justify-center bg-background">
