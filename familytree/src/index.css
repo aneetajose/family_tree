@@ -5,8 +5,10 @@
 .root,
 #root,
 #docs-root {
-  --primary-color: #115e59;
-  --secondary-color: #14b8a6;
-  --background: #ccfbf1;
-  --font-type: "open-sans";
+  --primary-100: #0B194A;
+  --primary-80: #1A2756;
+  --secondary-50: #8499E0;
+  --accent: #4326DC;
+  --rectangle-shade: rgba(132, 153, 224, 0.2);
+  --font-type: "Open Sans";
 }
